@@ -5,3 +5,5 @@
 <img src = "1151.jpeg">
 1. List_Item_1
 2. List_Item_2
+* Star_for_bulleted_list
+* Bulleted_Item_2
